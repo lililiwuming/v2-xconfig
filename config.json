@@ -6,14 +6,14 @@
       "settings": {
         "clients": [
           {
-            "id": "$UUID"
+            "id": "$AUUID"
           }
         ]
       },
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/$UUID-vmess"
+          "path": "/$AUUID-vmess"
         }
       }
     },
@@ -23,7 +23,7 @@
       "settings": {
         "clients": [
           {
-            "id": "$UUID"
+            "id": "$AUUID"
           }
         ],
         "decryption": "none"
@@ -31,7 +31,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/$UUID-vless"
+          "path": "/$AUUID-vless"
         }
       }
     },
@@ -41,14 +41,14 @@
       "settings": {
         "clients": [
           {
-            "password": "$UUID"
+            "password": "$AUUID"
           }
         ]
       },
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/$UUID-trojan"
+          "path": "/$AUUID-trojan"
         }
       }
     }
