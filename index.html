@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>一个解析</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width">
+</head>
+<body>
+<script>
+var apiArray=[
+"https://v.jhdyw.vip/jhcs/?url=",
+"https://titan.mgtv.com.parwix.com:4433/player/analysis.php?v=",
+"https://ckmov.ccyjjd.com/ckmov/?url=",
+"https://www.8090.la/api/?url=",
+"https://jx.7kjx.com/?url=",
+"http://jx.sqzy.tk/player/analysis.php?v=",
+"https://www.qianyicp.com/jiexi/index.php?url=",
+"https://www.91jxs.com/jiexi/?url=",
+"https://api.sigujx.com/?url=",
+"http://jx.ppflv.com/?url=",
+"https://jx.iztyy.com/svip/?url=",
+"https://m2090.com/?url=",
+"https://jx.618g.com/?url=",
+"https://vip.ikjiexi.top/?url=",
+"https://jx.ivito.cn/?url=",
+"http://api.lhh.la/vip/?url=",
+"https://jx.ap2p.cn/?url=",
+"http://api.3jx.top/vip/?url=",
+"http://api.jiexi.la/?url=",
+"https://vip.52jiexi.top/?url="];
+var origin=document.location.href.split("url=")[1];
+var iframeHtml="";
+if(origin.indexOf("html")!=-1){
+for(var i=0;i<apiArray.length;i++){
+var URL=apiArray[i]+origin;
+iframeHtml=iframeHtml+"<iframe sandbox='allow-scripts allow-same-origin allow-forms' frameborder='0' allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' src="+URL+"></iframe>";
+}
+document.write(iframeHtml);
+}
+</script>
+</body>
+</html>
