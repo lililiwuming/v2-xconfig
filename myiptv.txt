@@ -19,6 +19,7 @@ Y失效 辽宁电信沈阳ip版.txt
 北方广电辽宁有线CDN版.txt
 印度尼西亚PLTV雅加达ip版.txt
 厦门广电网CDN版.txt
+吉林PLTV长春移动ip版.txt
 吉林jlntv官网CDN版.txt
 咪咕爱看CDN版.txt
 咪咕视频CDN版.txt
@@ -61,6 +62,7 @@ Y失效 辽宁电信沈阳ip版.txt
 浙江CZTV中国蓝CDN版.txt
 浙江PLTV移动CDN修改版.txt
 浙江联通中兴平台杭州ip版.txt
+湖北PLTV武汉移动多ip版.txt
 湖北PLTV移动CDN不完整修改版.txt
 湖北PLTV移动CDN修改版2.txt
 湖北长江云县市频道
