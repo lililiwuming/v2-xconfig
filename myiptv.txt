@@ -47,6 +47,7 @@ Y失效 辽宁电信沈阳ip版.txt
 山西沁水树理云代理.txt
 广东广电ip版.txt
 广西PLTV南宁移动ip版.txt
+广西PLTV移动CDN版.txt
 广视网官网ip版.txt
 成人电视CDN版
 新疆省台虎鱼网CDN版.txt
