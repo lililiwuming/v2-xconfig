@@ -76,7 +76,7 @@ Y失效 辽宁电信沈阳ip版.txt
 甘肃Ⅱ天水移动ip版.txt
 甘肃Ⅳ兰州移动ip版.txt
 直播中国720p官网源.txt
-福建PLTV移动CDN版.txt
+福建PLTV移动CDN修改版.txt
 福建移动部分rtsp高清台ip版.txt
 西藏PLTV拉萨移动ip版.txt
 贵州PLTV移动CDN版.txt
@@ -92,7 +92,7 @@ Y失效 辽宁电信沈阳ip版.txt
 陕西PLTV移动CDN版.txt
 陕西广电秦岭云CDN版.txt
 陕西银河渭南移动ip版.txt
-青海PLTV玉树移动ip版.txt
+青海PLTV西宁移动ip版.txt
 香港UTV移动CDN版.txt
 香港某服务器.txt
 黑龙江PLTV移动CDN版.txt
