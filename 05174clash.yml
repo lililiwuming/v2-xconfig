@@ -1,4 +1,4 @@
-port: 7890
+﻿port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
@@ -3271,7 +3271,7 @@ rules:
  - DOMAIN-SUFFIX,dvr8.com,🛑 全球拦截
  - DOMAIN-SUFFIX,dvs.china.com,🛑 全球拦截
  - DOMAIN-SUFFIX,dvsend.china.com,🛑 全球拦截
- - DOMAIN-SUFFIX,dvser.china.com,?? 全球拦截
+ - DOMAIN-SUFFIX,dvser.china.com,🛑 全球拦截
  - DOMAIN-SUFFIX,dvser02.china.com,🛑 全球拦截
  - DOMAIN-SUFFIX,dvx-android.0.0.0.0.cn,🛑 全球拦截
  - DOMAIN-SUFFIX,dw.koudaibl.com,🛑 全球拦截
@@ -7709,7 +7709,7 @@ rules:
  - DOMAIN-SUFFIX,wancai.com,🛑 全球拦截
  - DOMAIN-SUFFIX,wanfeng1.com,🛑 全球拦截
  - DOMAIN-SUFFIX,wangdaizao.com,🛑 全球拦截
- - DOMAIN-SUFFIX,wangdq.com,?? 全球拦截
+ - DOMAIN-SUFFIX,wangdq.com,🛑 全球拦截
  - DOMAIN-SUFFIX,wangmeng.baidu.com,🛑 全球拦截
  - DOMAIN-SUFFIX,wangmeng.sogou.com,🛑 全球拦截
  - DOMAIN-SUFFIX,wangsufast.com,🛑 全球拦截
